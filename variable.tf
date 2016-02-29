@@ -27,5 +27,6 @@ variable "aws_amis" {
     us-east-1 = "ami-de7ab6b6"
     us-west-1 = "ami-3f75767a"
     us-west-2 = "ami-21f78e11"
+    ap-southeast-2 = "ami-20381e43"
   }
 }
